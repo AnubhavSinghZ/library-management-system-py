@@ -52,7 +52,7 @@ Built specifically to demonstrate core **Object-Oriented Programming (OOP)** con
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AnubhavSinghZ/library-management-system.git
+git clone https://github.com/AnubhavSinghZ/library-management-system-py.git
 cd library-management-system/src
 
 # 2. Run it
