@@ -138,7 +138,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/AnubhavSinghZ)
+- GitHub: [@AnubhavSinghZ](https://github.com/AnubhavSinghZ)
 - LinkedIn: [Anubhav Kumar Singh]
 
 ⭐ If you found this helpful, consider giving the repo a star!
