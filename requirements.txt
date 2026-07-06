@@ -1,0 +1,2 @@
+# This project only uses Python's standard library
+# (abc, json, os) - no external packages required.
